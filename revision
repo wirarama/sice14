@@ -1,0 +1,9 @@
+* judgment node and processing node of GNP, OK (basic GNP description and pic)
+* how to make rules by combining nodes, OK (proccessing node move pic and description)
+* what kind of fitness function is used, OK (Pearson's chi-squared test)
+
+[today's priority]
+* more understandable explanation on partial random method, (example of template and description)
+* how to calculate euclidean distance between (table of leader rule and remained rule structure)
+leader and remaining rules
+(* more simulation results, if you have).
